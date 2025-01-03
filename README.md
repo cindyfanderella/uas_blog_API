@@ -1,6 +1,6 @@
-## Getting Started
+# untuk memulai
 
-First, install the dependencies:
+install dependencynya :
 
 ```bash
 npm install
@@ -13,7 +13,7 @@ bun install
 ```
 
 
-run the development server:
+untuk memulai :
 
 ```bash
 npm run dev
@@ -25,4 +25,4 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ buka http://localhost:3000
