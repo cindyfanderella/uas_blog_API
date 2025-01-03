@@ -4,11 +4,11 @@ install dependencynya :
 
 ```bash
 npm install
-# or
+# atau
 yarn install
-# or
+# atau
 pnpm install
-# or
+# atau
 bun install
 ```
 
@@ -17,11 +17,11 @@ untuk memulai :
 
 ```bash
 npm run dev
-# or
+# atau
 yarn dev
-# or
+# atau
 pnpm dev
-# or
+# atau
 bun dev
 ```
 
